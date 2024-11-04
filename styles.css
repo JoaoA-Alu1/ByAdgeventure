@@ -14,3 +14,11 @@ button{
     color: azure;
     font-family: "Jersey 25", sans-serif"
 }
+
+.passo{
+    display: none;
+}
+
+.passo.ativo {
+    display: block;
+}
