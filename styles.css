@@ -6,11 +6,11 @@ body {
     justify-content: center;
     align-items: center;
     height: 700px;
-    font-size: large;
+    font-size: larger;
 }
 
 button{
     background-color: darkslateblue;
     color: azure;
-    font-family: "Jersey 25", sans-serif";
+    font-family: "Jersey 25", sans-serif"
 }
