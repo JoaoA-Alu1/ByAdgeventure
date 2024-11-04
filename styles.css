@@ -2,4 +2,14 @@ body {
     background-color: cornflowerblue;
     color:snow;
     font-family: "Jersey 25", sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 70px;
+}
+
+button{
+    background-color: darkslateblue;
+    color: azure;
+    font-family: "Jersey 25", sans-serif;
 }
