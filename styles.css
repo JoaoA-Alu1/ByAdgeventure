@@ -15,10 +15,10 @@ button{
     font-family: "Jersey 25", sans-serif"
 }
 
-.passo{
+.pasaso{
     display: none;
 }
 
-.passo.ativo {
+.pasaso.ativo {
     display: block;
 }
